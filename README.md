@@ -1,2 +1,2 @@
 # launchX_FrontEnd_S1
-A repo with all the practices for weak 1
+Este repositorio contiene todo mi progreso de la primera misión de FrontEnd
